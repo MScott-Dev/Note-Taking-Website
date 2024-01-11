@@ -10,37 +10,29 @@
 [Description](#Description) <br>
 [Usage](#Usage) <br>
 [Dependencies](#Dependencies) <br>
-[Installing](#Installing) <br>
 [Contributing](#Contributing) <br>
-[Executing](#Executing) <br>
 [Authors](#Authors) <br>
 [License](#License) <br>
 
 
 ## Description <a name="Description"></a>
-<img src="" alt="" /> <br>
-
+<img src="https://imgur.com/G5EBmPV.png" alt="Note-taking-website" /> <br>
+A note taking website hosted on Heroku made using HTML, CSS, JavaScript, as well as a few frameworks like BootStrap and Express.js!
 
 
 
 
 ## Usage <a name="Usage"></a>
-
+Type out any note or reminder you need to remember!
+Just fill out a title and description of a new note and hit save! Once you"re finished with the new, you can remove with the delete button!
 
 ## Dependencies <a name="Dependencies"></a>
-<a href="https://young-woodland-98148-d14edaca719f.herokuapp.com/notes" alt="Note-Taking-_Website">A link to the webpage</a>
-
-
-## Installing <a name="Installing"></a>
-
+<a href="https://young-woodland-98148-d14edaca719f.herokuapp.com/notes" alt="Note-Taking-Website">A link to the webpage</a>
 
 
 ## Contributing <a name="Contributing"></a>
 If you think you can improve this project, Send me a message! *info at the bottom* <br>
 You could also open a pull request and I'll take a look at it!
-
-## Executing program <a name="Executing"></a>
-
 
 
 ## Authors <a name="Authors"></a>
